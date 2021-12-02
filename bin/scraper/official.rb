@@ -4,23 +4,33 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class MemberList
-  class Member
-    def name
-      noko.css('.name').text.tidy
-    end
-
-    def position
-      noko.css('.position').text.tidy
-    end
+class Member < Scraped::HTML
+  field :name do
+    MemberList::Member::Name.new(
+      full:     fullname,
+      prefixes: %w[His Excellency The Honourable],
+      suffixes: %w[CMG]
+    ).short
   end
 
-  class Members
-    def member_container
-      noko.css('.member')
-    end
+  field :position do
+    noko.css('.field-name-field-department-head-s-position,.field-name-field-head-s-title').text.tidy
+  end
+
+  private
+
+  def fullname
+    noko.css('.field-name-field-department-head-s-name,.field-name-field-head-s-name').text.tidy
   end
 end
 
-file = Pathname.new 'html/official.html'
-puts EveryPoliticianScraper::FileData.new(file).csv
+dir = Pathname.new 'mirror'
+data = dir.glob('*.html').sort.flat_map do |file|
+  request = Scraped::Request.new(url: file, strategies: [LocalFileRequest])
+  data = Member.new(response: request.response).to_h
+  [data.delete(:position)].flatten.map { |posn| data.merge(position: posn) }
+end.uniq
+
+ORDER = %i[name position url].freeze
+puts ORDER.to_csv
+data.each { |row| puts row.values_at(*ORDER).to_csv }
