@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie ie6" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class="" lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://bvi.gov.vg/sites/default/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Our Ministries | Government of the Virgin Islands</title>
+<!-- Call bootstrap.css before $scripts to resolve @import conflict with respond.js -->
+<link rel="stylesheet" href="/sites/all/themes/Porto/vendor/bootstrap/css/bootstrap.css">
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/modules/system/system.base.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/system/system.menus.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/system/system.messages.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/system/system.theme.css?qs6kii");
+</style>
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?qs6kii");
+</style>
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/sites/all/modules/calendar/css/calendar_multiday.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/ckeditor_tabber-7.x-1.4/ckeditor_tabber/ckeditor_tabber.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/comment/comment.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/date/date_api/date.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/fences/field.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/node/node.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/search/search.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/user/user.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_overlay/css/views_slideshow_xtra_overlay.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/youtube/css/youtube.css?qs6kii");
+@import url("https://bvi.gov.vg/modules/forum/forum.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/views/css/views.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/flickr.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/flickr_cc_icons_on_hover.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/flickr_cc_icons.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_rounded.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_shadow.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_border.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_caption_shadow.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_nostyle.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/flickr/style/css/flickrstyle_enlarge.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/ckeditor/css/ckeditor.css?qs6kii");
+</style>
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/sites/all/modules/colorbox/styles/default/colorbox_style.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/ctools/css/ctools.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/event_calendar/event_popup/css/event_popup.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/libraries/jreject/css/jquery.reject.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/lightbox2/css/lightbox.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/panels/css/panels.css?qs6kii");
+</style>
+<style type="text/css" media="screen">
+<!--/*--><![CDATA[/*><!--*/
+div#content,.row{font-size:102%;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/sites/all/modules/textsize/textsize.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/modules/hide_submit/css/hide_submit.css?qs6kii");
+</style>
+<style type="text/css" media="all">
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/owl-carousel/owl.carousel.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/font-awesome/css/font-awesome.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/owl-carousel/owl.theme.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/prettyPhoto/css/prettyPhoto.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/circle-flip-slideshow/css/component.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/magnific-popup/magnific-popup.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/mediaelement/mediaelementplayer.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/vendor/isotope/jquery.isotope.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/theme.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/theme-elements.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/theme-animate.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/theme-blog.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/theme-responsive.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto/css/drupal-styles.css?qs6kii");
+@import url("https://bvi.gov.vg/sites/all/themes/Porto_sub/css/custom.css?qs6kii");
+</style>
+<link type="text/css" rel="stylesheet" href="https://bvi.gov.vg/sites/default/files/less/vXZlf2Vy86AEXUzl5rZGzEvqErsNEbLGr2fTCf2BzYI/sites/all/themes/Porto/css/less/skin.4CGowJmY3-WfTeRHbgX2iu0nMJXJz0kWpmm0_TjbLPQ.css?qs6kii" media="all" />
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_TPRZmUmeC1mz3SQ7t4xnN3gdUVEXqJt0x0Q63NzH9Qs.js"></script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_9k9l6haqJ3dZ6codRtL8eMyNhiLgYLyVEkAGirRC8ZQ.js"></script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_lkEZztIjNAvj439Sqtb_Vge6GYOtGnRGGgO_mSVSgmQ.js"></script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_JjWIEoLxBiQ3TJGR2svU34ODqBx8874AWmTEkJjQg3k.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+    $.expr[':'].regex = function(elem, index, match) {
+            var matchParams = match[3].split(','),
+            validLabels = /^(data|css):/,
+            attr = {
+                method: matchParams[0].match(validLabels) ? 
+                matchParams[0].split(':')[0] : 'attr',
+                property: matchParams.shift().replace(validLabels,'')
+            },
+            regexFlags = 'ig',
+            regex = new RegExp(matchParams.join('').replace(/^\s+|\s+$/g,''), regexFlags);
+            return regex.test(jQuery(elem)[attr.method](attr.property));
+        }
+    });
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_tyia-mG7hUTQrKWBHWTQXBmdRRbbjTqFtDX7XGjVDwQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    (function($) {
+      Drupal.behaviors.jReject = {
+        attach: function (context, settings) {
+          $.reject({
+          display: ["firefox", "safari", "opera", "chrome"],
+            reject: {  
+                msie5: true, msie6: true, msie7: true, firefox2: true, firefox3: true, firefox4: true, firefox5: true, firefox6: true, firefox7: true, chrome1: true, chrome2: true, chrome3: true, safari1: true, safari2: true, safari3: true, opera1: true, opera2: true, opera3: true, opera4: true, opera5: true
+            },
+            imagePath: '/sites/all/libraries/jreject/images/',
+            enable: true, header: "Did you know that your Internet Browser is out of date?", paragraph1: "Your browser is out of date, and may not be compatible with our website. A list of the most popular web browsers can be found below.", paragraph2: "Just click on the icons to get to the download page:", closeMessage: "By closing this window you acknowledge that your experience on this website may be degraded.", closeLink: "Close This Window", closeURL: "#", close: true, closeESC: true, closeCookie: false, overlayBgColor: "#000", overlayOpacity: 0.8, fadeInTime: "fast", fadeOutTime: "fast"
+          }); 
+          return false;  
+        }
+      }
+    })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_xdLoKycBMQzuJnthCw-lrHz5YOUiGHUOoe8w2SQJcbA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var textsizeCookieExpires = 365;
+  var textsizeCookieDomain = "/";
+  var textsizeElement = "div";
+  var textsizeElementClass = "#content, .row";
+  var textsizeIncrement = 5;
+  var textsizeNormal = 102;
+  var textsizeMinimum = 92;
+  var textsizeMaximum = 117;
+  var textsizeIncrementDisplay = 5;
+  var textsizeNormalDisplay = 100;
+  var textsizeDisplay = 1;
+  var textsizeMinT = "<abbr title=\"Minimum\" class=\"textsize\">Min.</abbr> ";
+  var textsizeMaxT = "<abbr title=\"Maximum\" class=\"textsize\">Max.</abbr> ";
+  var textsizeCurrentText = "Current Size";
+  var textsizeReset = 0;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_5IIXfugB8ZhdIKtUcmBRzXY0xp-EodzoBL1S65ngVGE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-45108635-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_0GcdFqxNcN7yrbYyTOC-EeZUXIAfC0gAf1trD3o9ghY.js"></script>
+<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_5hbG5-_KRpJ3lE4dz0gMzE32MbPlZhjhJM94xpSSycE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"porto_sub","theme_token":"fQny2eQ9bpIeYVd4gjP9uT_d3Ok9hdFMBcYrg-sn9QM","js":{"sites\/all\/modules\/responsive_imagemaps\/responsive_imagemaps.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/ckeditor_tabber-7.x-1.4\/ckeditor_tabber\/semantic-tabs.js":1,"sites\/all\/modules\/ga_push\/modules\/browser\/ga_push_browser.js":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/js\/views_slideshow_xtra_overlay.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/event_calendar\/event_popup\/js\/event_popup.js":1,"sites\/all\/modules\/event_calendar\/event_popup\/js\/event_popup_validate.js":1,"0":1,"sites\/all\/libraries\/jreject\/js\/jquery.reject.js":1,"1":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/responsive-imagemaps\/jquery.rwdImageMaps.min.js":1,"2":1,"sites\/all\/modules\/textsize\/jquery.textsize.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra.js":1,"sites\/all\/modules\/flickr\/flickr_colorbox.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/modules\/hide_submit\/js\/hide_submit.js":1,"sites\/all\/themes\/Porto\/vendor\/modernizr.js":1,"sites\/all\/themes\/Porto\/vendor\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easing.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.cookie.js":1,"sites\/all\/themes\/Porto\/vendor\/owl-carousel\/owl.carousel.js":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.js":1,"sites\/all\/themes\/Porto\/vendor\/prettyPhoto\/js\/jquery.prettyPhoto.js":1,"sites\/all\/themes\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.mapmarker.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.stellar.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.gmap.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.knob.js":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.js":1,"sites\/all\/themes\/Porto\/vendor\/mediaelement\/mediaelement-and-player.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.validate.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.appear.js":1,"sites\/all\/themes\/Porto\/js\/mobile-menu.js":1,"sites\/all\/themes\/Porto\/js\/theme.plugins.js":1,"sites\/all\/themes\/Porto\/js\/theme.js":1,"sites\/all\/themes\/Porto\/js\/views\/view.home.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/ckeditor_tabber-7.x-1.4\/ckeditor_tabber\/ckeditor_tabber.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"sites\/all\/modules\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/flickr\/flickr.css":1,"sites\/all\/modules\/flickr\/flickr_cc_icons_on_hover.css":1,"sites\/all\/modules\/flickr\/flickr_cc_icons.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_rounded.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_shadow.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_border.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_caption_shadow.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_nostyle.css":1,"sites\/all\/modules\/flickr\/style\/css\/flickrstyle_enlarge.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/event_calendar\/event_popup\/css\/event_popup.css":1,"sites\/all\/libraries\/jreject\/css\/jquery.reject.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"0":1,"sites\/all\/modules\/textsize\/textsize.css":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"sites\/all\/modules\/hide_submit\/css\/hide_submit.css":1,"sites\/all\/themes\/Porto\/vendor\/owl-carousel\/owl.carousel.css":1,"sites\/all\/themes\/Porto\/vendor\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/themes\/Porto\/vendor\/owl-carousel\/owl.theme.css":1,"sites\/all\/themes\/Porto\/vendor\/prettyPhoto\/css\/prettyPhoto.css":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/css\/component.css":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.css":1,"sites\/all\/themes\/Porto\/vendor\/mediaelement\/mediaelementplayer.css":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.css":1,"sites\/all\/themes\/Porto\/css\/theme.css":1,"sites\/all\/themes\/Porto\/css\/theme-elements.css":1,"sites\/all\/themes\/Porto\/css\/theme-animate.css":1,"sites\/all\/themes\/Porto\/css\/theme-blog.css":1,"sites\/all\/themes\/Porto\/css\/theme-responsive.css":1,"sites\/all\/themes\/Porto\/css\/drupal-styles.css":1,"sites\/all\/themes\/Porto_sub\/css\/custom.css":1,"sites\/all\/themes\/Porto\/css\/less\/skin.less":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"event_popup":{"classes":"","defaults":"width:300;height:auto;position:[center,60]","selector":"content","content_type":"event_calendar","op":false},"ga_push_browser":[{"selector":".field-name-field-form a:link","push":["Service Downloads","Application Form Download","Downloading a Service Application Form","1"],"bind":"click"}],"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"eps\/1.2"},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"hide","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing, Please wait...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":1,"hide_submit_reset_time":10000},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"ckeditor_tabber":{"elements":"dl.ckeditor-tabber"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/listing-of-ministries":true}});
+//--><!]]>
+</script>
+
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+  <link rel="stylesheet" href="/sites/all/themes/Porto/css/ie.css">
+<![endif]-->
+
+<!--[if lte IE 8]>
+  <script src="/sites/all/themes/Porto/vendor/respond.js"></script>
+<![endif]-->
+
+<!-- Web Fonts  -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+  var big ='72%';
+  var small='53%';
+  var altopen='is open';
+  var altclose='is closed';
+  var bildauf='/templates/beez_20/images/plus.png';
+  var bildzu='/templates/beez_20/images/minus.png';
+  var rightopen='Open info';
+  var rightclose='Close info';
+  var fontSizeTitle='Font size';
+  var bigger='Bigger';
+  var reset='Reset';
+  var smaller='Smaller';
+  var biggerTitle='Increase size';
+  var resetTitle='Revert styles to default';
+  var smallerTitle='Decrease size';
+</script>
+  
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-listing-of-ministries ">
+
+<div class="body">
+  <header id="header">
+    <div class="container">
+
+      	      	        
+            <h1 class="logo">
+	      <a href="/" title="Home" rel="home" id="logo">
+	        <img src="https://bvi.gov.vg/sites/default/files/govlogo3.png" alt="Home" height="72" data-sticky-height="44" />
+	      </a>
+      </h1>
+	    	    
+	          <div id="name-and-slogan" class="hidden">
+
+                              <div id="site-name" class="hidden">
+	            <a href="/" title="Home" rel="home"><span>Government of the Virgin Islands</span></a>
+	          </div>
+                  
+                  <div id="site-slogan" class="hidden">
+            The No 1 Source For Government Information, News, &amp; Services          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+	    	    
+	    	    <div class="search">
+	        
+<form action="/listing-of-ministries" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="input-group"> 
+  <input title="Enter the terms you wish to search for." class="form-control search form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search..." size="40" maxlength="128" /><span class="input-group-btn"><button class="btn btn-default" type="submit"><i class="icon icon-search"></i></button></span><input type="hidden" name="form_build_id" value="form-DKh2MbP-BAVuwIgEtgl694MTFBIqSx__3ZHTVu0ywyk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>	    </div>
+	          
+      <!-- /branding --> 
+      <div id="header-top">
+              </div>
+      
+	    <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+				<i class="icon icon-bars"></i>
+			</button>
+      
+    </div>
+    
+    <div class="navbar-collapse nav-main-collapse collapse">
+		  <div class="container">  
+      
+          <div class="region region-header-icons">
+    <div id="block-block-22" class="block block-block">
+
+    
+  <div class="content">
+     <div class="social-icons">
+<ul class="social-icons">
+<li class="facebook"><a href="http://www.facebook.com/bvigovernment" target="_blank" title="Facebook">Facebook</a></li>
+<li class="twitter"><a href="http://www.twitter.com/bvigovernment" target="_blank" title="Twitter">Twitter</a></li>
+<li class="youtube"><a href="http://www.youtube.com/bvigovernment" target="_blank" title="youtube">Youtube</a></li>
+</ul>
+</div>
+   </div>
+</div>
+  </div>
+        
+        <nav class="nav-main">
+          <div class="region region-header-menu">
+    <div id="block-md-megamenu-1" class="block block-md-megamenu">
+
+    
+  <div class="content">
+    <ul class="nav nav-pills nav-main" id="mainMenu"></ul>  </div>
+</div>
+<div id="block-menu-menu-government-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="nav nav-pills nav-main" id="mainMenu"><li class="dropdown 2672 active"><a class="dropdown-toggle extra" href="#"></a><a href="/" title="" class="active-trail dropdown-toggle disabled">Government</a><ul class="dropdown-menu"><li><a href="/virgin-islands-constitution">The Virgin Islands Constitution</a></li><li class="dropdown-submenu"><a href="/executive-branch">Executive Branch</a><ul class="dropdown-menu"><li><a href="/history-cabinet">The History of the Cabinet</a></li></ul></li><li class="dropdown-submenu"><a href="/house-assembly">Legislative Branch</a><ul class="dropdown-menu"><li><a href="/house-assembly-history">House of Assembly History</a></li><li><a href="/house-of-assembly">House of Assembly Members</a></li><li><a href="/qualifications-membership">Qualifications for Membership</a></li></ul></li><li class="dropdown-submenu"><a href="/judicial-branch">Judicial Branch</a><ul class="dropdown-menu"><li><a href="/court-appeal">Court of Appeal</a></li><li><a href="/judicial-committee-privy-council-jcpc">Judicial Committee of the Privy Council (JCPC)</a></li><li><a href="/supreme-court-high-court">Supreme Court (High Court)</a></li><li><a href="/magistrate-court">The Magistrate Court</a></li></ul></li><li class="active"><a href="/listing-of-ministries" class="active-trail active">Ministries</a></li><li><a href="/listing-of-departments" title="">Departments</a></li><li class="dropdown-submenu"><a href="/budget-estimate">Finance and Budget</a><ul class="dropdown-menu"><li><a href="/budget-estimate" title="">Budget Estimate</a></li><li><a href="/financial-management-system">Financial Management System</a></li><li><a href="/medium-term-fiscal-plan">Medium Term Fiscal Plan</a></li><li><a href="/fatca" title="FATCA">Foreign Account Tax Compliance Act</a></li><li><a href="https://bviita.vg/tax-information-exchange-agreements/" title="TIEA">Tax Information Exchange Agreements</a></li><li><a href="/tender-notices">Tender Notices</a></li><li><a href="/departments/rehabilitation-and-reconstruction-loan" title="">Rehabilitation and Reconstruction Loan</a></li></ul></li><li><a href="/statistics" title="">Statistics</a></li><li><a href="/elections">Elections</a></li><li><a href="/list-of-government-services">Public Servant Services</a></li><li><a href="/all-services-list1" title="All Services">All Services</a></li></ul></li><li><a href="/list-of-resident-services">Residents</a></li><li><a href="/list-of-business-services" title="">Businesses</a></li><li><a href="/list-of-visitor-services">Visitors</a></li><li><a href="/employment-opportunities">Jobs</a></li><li class="dropdown 2676"><a class="dropdown-toggle extra" href="#"></a><a href="/news" title="" class="dropdown-toggle disabled">Media Centre</a><ul class="dropdown-menu"><li><a href="/news" title="">All News</a></li><li><a href="/press-release">Press Releases</a></li><li><a href="/statements">Speeches &amp; Statements</a></li><li><a href="/bulletins" title="">Bulletins</a></li><li><a href="/photo-and-caption">Photo and Captions</a></li><li><a href="/videos" title="">Videos</a></li><li><a href="/posters" title="">Posters</a></li></ul></li><li class="dropdown 3946"><a class="dropdown-toggle extra" href="#"></a><a href="/content/about-territory" class="dropdown-toggle disabled">Our Territory</a><ul class="dropdown-menu"><li><a href="/national-symbols">National Symbols</a></li><li><a href="/content/our-economy">Our Economy</a></li><li><a href="/content/our-culture">Our Cultural Events</a></li><li><a href="/content/our-sports">Our Sports</a></li><li><a href="/content/our-history">Our History</a></li><li><a href="/content/our-islands-0">Our Islands</a></li><li><a href="/content/geography">Geography &amp; Climate</a></li><li><a href="/politics">Politics</a></li></ul></li></ul>  </div>
+</div>
+<div id="block-menu-menu-records-management" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="nav nav-pills nav-main" id="mainMenu"></ul>  </div>
+</div>
+  </div>
+        </nav>
+        
+		  </div> 
+    </div>  
+    
+	</header>
+	<!-- end header --> 
+	
+	<div role="main" class="main">
+	
+	  	  <section class="page-top breadcrumb-wrap">
+		  <div class="container">
+		    				<div class="row">
+					<div class="col-md-12">
+						<h2>Our Ministries</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+	  	  
+	  	  <div id="content" class="content full">
+	    <div class="container">
+	      <div class="row">
+	      			    			
+					<div class="col-md-12">
+					  
+			     				      			      		
+					    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="view view-list-of-departments view-id-list_of_departments view-display-id-page_1 view-dom-id-d7281fc225406e9467cf1bca89e52138">
+        
+  
+  
+      <div class="view-content">
+      
+<div id="views-bootstrap-grid-1" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/content/governors-groupdeputy-governors-office">
+           <h5>Governor&#039;s Group/Deputy Governor&#039;s Office</h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/ministry/premiers-office-0">
+           <h5>Premier&#039;s Office</h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/ministry/ministry-of-finance">
+           <h5>Ministry of Finance</h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/content/ministry-natural-resources-and-labour">
+           <h5>Ministry of Natural Resources, Labour and Immigration</h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/content/ministry-health-and-social-development">
+           <h5>Ministry of Health and Social Development </h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/content/ministry-communication-and-works">
+           <h5>Ministry of Transportation, Works and Utilities</h5>
+</a></div>  </div>          </div>
+                  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-">
+              
+  <div class="views-field views-field-nothing">        <div class="field-content departmentblock"><a href="/content/ministry-education-and-culture">
+           <h5>Ministry of Education, Culture, Youth Affairs, Fisheries and Agriculture</h5>
+</a></div>  </div>          </div>
+              </div>
+    
+  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+			      
+					</div>
+			  
+				  			    
+			  </div>
+	    </div>  
+	  </div>  
+	  
+	</div>
+
+    
+  <footer id="footer">
+    	  <div class="container main-footer">
+	    <div class="row">
+	    
+	      				<div class="footer-ribbon">
+					<span><em class="placeholder">Contact Us</em></span>
+				</div>
+	      			  
+			  		    <div class="col-md-3">
+				    <div class="region region-footer-1">
+      <div class="region region-footer-1">
+      <div class="region region-footer-1">
+    <div id="block-block-10" class="block block-block">
+
+    <h2>Subscribe to Government News</h2>
+  
+  <div class="content">
+    <!--
+<form action="" id="newsletterForm" method="POST" novalidate="novalidate" style="color:white;">
+<div class="input-group" style="color:white;"><input class="form-control" id="newsletterEmail" name="newsletterEmail" placeholder="Email Address" type="text" /> <span class="input-group-btn"><button class="btn btn-default" type="submit">Go!</button></span></div>
+</form> -->
+<p style="color:white;">Keep up with our latest Government News. <a href="/content/subscribe-government-news" rel="lightframe[width:200px; height:800px; ]"><strong> Click here to Subscribe.</strong></a></p>
+
+<p><a href="http://report.iwf.org.uk/bvi"><img alt="" src="/sites/default/files/web_banner_-_child_pornography.png" style="width: 130px; height: 108px;" /></a><a href="http://report.iwf.org.uk/bvi"><img alt="" src="/sites/default/files/web_banner_-_child_sexual_abuse.png" style="width: 130px; height: 108px;" /></a></p>
+  </div>
+</div>
+  </div>
+  </div>
+  </div>
+		    </div>
+		    		    
+		    		    
+		    		    <div class="col-md-4">
+				    <div class="region region-footer-3">
+      <div class="region region-footer-3">
+    <div id="block-block-12" class="block block-block">
+
+    <h2>Contact Us</h2>
+  
+  <div class="content">
+     <ul class="contact">
+<li>
+<p><strong>Address:</strong> 33 Admin Drive, Wickhams Cay 1, Road Town, Tortola, Virgin Islands (British)</p>
+</li>
+<li>
+<p><strong>Phone:</strong>&nbsp;1(284) 468-3701</p>
+</li>
+<li>
+<p><strong>Email:</strong>&nbsp;<a href="mailto:gis@gov.vg">gis@gov.vg</a></p>
+</li>
+</ul>
+   </div>
+</div>
+  </div>
+  </div>
+		    </div>
+		    		    
+		    		    <div class="col-md-2">
+				    <div class="region region-footer-4">
+      <div class="region region-footer-4">
+    <div id="block-block-13" class="block block-block">
+
+    <h2>Follow Us</h2>
+  
+  <div class="content">
+     <div class="social-icons">
+<ul class="social-icons">
+<li class="facebook"><a data-original-title="Facebook" data-placement="bottom" href="http://www.facebook.com/BVIGovernment" rel="tooltip" target="_blank" title="">Facebook</a></li>
+<li class="twitter"><a data-original-title="Twitter" data-placement="bottom" href="http://www.twitter.com/BVIGovernment" rel="tooltip" target="_blank" title="">Twitter</a></li>
+<li class="youtube"><a data-original-title="Youtube" data-placement="bottom" href="http://www.youtube.com/bvigovernment" rel="tooltip" target="_blank" title="">Youtube</a></li>
+</ul>
+</div>
+<p>&nbsp;</p>
+   </div>
+</div>
+  </div>
+  </div>
+		    </div>
+		    			    
+			</div>  
+	  </div>	
+	  	  
+	  <div class="footer-copyright">  
+	    <div class="container">
+	      <div class="row">
+			    <div class="col-md-6">
+			    
+					  					      <div class="region region-footer-bottom-left">
+    <div id="block-block-14" class="block block-block">
+
+    
+  <div class="content">
+     <p>&copy; Copyright 2019 by Government of the Virgin Islands.&nbsp;</p>
+   </div>
+</div>
+  </div>
+					  			  
+			    </div>
+			    <div class="col-md-6">
+			    
+					  					      <div class="region region-footer-bottom-right">
+    <div id="block-block-15" class="block block-block">
+
+    
+  <div class="content">
+     <p><nav id="sub-menu"></p>
+<ul>
+<li><a href="/list-of-all-faqs">FAQ&#39;s</a></li>
+<li><a href="#">Sitemap</a></li>
+<li><a href="/support-contacts">Contact</a></li>
+</ul>
+<p></nav></p>
+   </div>
+</div>
+  </div>
+					  			  
+			    </div>
+	      </div>  
+	    </div>
+	  </div>  
+	</footer>
+	
+</div>	<script type="text/javascript" src="https://bvi.gov.vg/sites/default/files/js/js_VAa1PeWJ9BqjHfZ_RZR0ai7pzRUZFkn0Ut-zaDgRp2U.js"></script>
+</body>
+
+</html>
