@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "the British Virgin Islands",
+      "id": "Q25305"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q109887330",
+      "start": "2019-03-01",
+      "parent": "Q16825166"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://bvi.gov.vg/listing-of-ministries",
+        "title": "Our Ministries | Government of the Virgin Islands",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/bvi-ministers"
 }
