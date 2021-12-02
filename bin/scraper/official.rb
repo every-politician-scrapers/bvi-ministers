@@ -10,7 +10,7 @@ class Member < Scraped::HTML
       full:     fullname,
       prefixes: %w[His Excellency The Honourable],
       suffixes: %w[CMG]
-    ).short
+    ).short.delete_suffix(',')
   end
 
   field :position do
