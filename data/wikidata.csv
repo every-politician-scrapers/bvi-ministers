@@ -1,8 +1,8 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q109887647,Vincent O. Wheatley,Vincent O. Wheatley,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887648,"Minister for Natural Resources, Labour and Immigration",Q109887647-0FCF38F0-0799-4BD5-B25A-02C19CF41554
-Q109887651,Kye M. Rymer,Kye M. Rymer,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887653,"Minister for Transportation, Works and Utilities",Q109887651-41E03A4A-6BDA-418E-958C-2DFA4380F8E7
-Q109887658,Dr. Natalio D. Wheatley,Natalio D. Wheatley,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887659,"Minister for Education, Culture, Youth Affairs, Fisheries and Agriculture",Q109887658-FD5C911E-6AEB-4D12-98D7-E15688FD75C5
-Q109887662,Carvin Malone,Carvin Malone,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887663,Minister for Health and Social Development,Q109887662-5609D56D-54DE-48A7-B0BE-0E05CE9E1BF2
-Q15429094,John James Rankin,John Rankin,male,1957-03-12,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q691615,Governor,Q15429094-F2AEC34F-30EC-4217-97B9-4EDCFC19EAF1
-Q28709152,Andrew A. Fahie,Andrew Fahie,male,1970-08-07,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q119804,Premier,Q28709152-13737a0b-4588-f43f-571e-522b66db6709
-Q28709152,Andrew A. Fahie,Andrew Fahie,male,1970-08-07,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887668,Minister of Finance,Q28709152-E2678A09-3F24-41BC-8A76-8694823FB59B
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q109887647,Vincent O. Wheatley,Vincent O. Wheatley,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887648,"Minister for Natural Resources, Labour and Immigration",2019-03-01,Q109887647-0FCF38F0-0799-4BD5-B25A-02C19CF41554
+Q109887651,Kye M. Rymer,Kye M. Rymer,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887653,"Minister for Transportation, Works and Utilities",2019-03-01,Q109887651-41E03A4A-6BDA-418E-958C-2DFA4380F8E7
+Q109887658,Dr. Natalio D. Wheatley,Natalio D. Wheatley,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887659,"Minister for Education, Culture, Youth Affairs, Fisheries and Agriculture",2019-03-01,Q109887658-FD5C911E-6AEB-4D12-98D7-E15688FD75C5
+Q109887662,Carvin Malone,Carvin Malone,male,,,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887663,Minister for Health and Social Development,2019-03-01,Q109887662-5609D56D-54DE-48A7-B0BE-0E05CE9E1BF2
+Q15429094,John James Rankin,John Rankin,male,1957-03-12,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q691615,Governor,2021-01-29,Q15429094-F2AEC34F-30EC-4217-97B9-4EDCFC19EAF1
+Q28709152,Andrew A. Fahie,Andrew Fahie,male,1970-08-07,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q119804,Premier,2019-02-26,Q28709152-13737a0b-4588-f43f-571e-522b66db6709
+Q28709152,Andrew A. Fahie,Andrew Fahie,male,1970-08-07,11,https://bvi.gov.vg/listing-of-ministries,2021-12-02,Q109887668,Minister of Finance,2019-03-01,Q28709152-E2678A09-3F24-41BC-8A76-8694823FB59B
