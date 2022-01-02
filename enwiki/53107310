@@ -277,69 +277,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://bvinews.com/new/andrew-fahie-sworn-in-as-premier/",
-          "title": "Andrew Fahie sworn in as Premier",
-          "publisher": "BVI News",
-          "date": "26 February 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.legco.gov.vg/spawpdfs/Microsoft%20Word%20-%20BIOGRAPHY-Hon.%20Andrew%20A.%20Fahie.pdf",
-          "title": "Hon. Andrew A. Fahie, MLC",
-          "publisher": "legco.gov.vg",
-          "access-date": "7 February 2017",
-          "archive-url": "https://web.archive.org/web/20170208040022/http://www.legco.gov.vg/spawpdfs/Microsoft%20Word%20-%20BIOGRAPHY-Hon.%20Andrew%20A.%20Fahie.pdf",
-          "archive-date": "8 February 2017",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://bvinews.com/new/fahie-beats-fraser/",
-          "title": "Fahie beats Fraser",
-          "publisher": "BVI News",
-          "date": "30 November 2016",
-          "access-date": "6 February 2017",
-          "archive-url": "https://web.archive.org/web/20161201084251/http://bvinews.com/new/fahie-beats-fraser/",
-          "archive-date": "1 December 2016",
-          "url-status": "dead",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://mobile.www.bvidailynews.com/news.php?articleId=26015",
-          "title": "D-Day: Who Will Clinch VIP Leadership?",
-          "publisher": "BVI Platinum",
-          "date": "30 November 2016",
-          "quote": "Hon. Fahie, who has earned the boxing legend Joe Louis' moniker as the 'Brown Bomber'.",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.bvi.gov.vg/bios/honourable-andrew-fahie-mha",
-          "title": "Hon. Andrew A. Fahie",
-          "publisher": "VI Government",
-          "access-date": "6 February 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.bviplatinum.com/news.php?articleId=26475",
-          "title": "BREAKING NEWS: Fahie Appointed Opposition Leader",
-          "publisher": "BVI Platinum",
-          "date": "6 February 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "February 2019",
-          "template": "citation needed"
-        }
       ]
     }
   ]
