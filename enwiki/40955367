@@ -1,288 +1,31 @@
 {
-  "title": "John Rankin (diplomat)",
-  "pageID": 40955367,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "People educated at Hutchesons' Grammar School",
-    "Alumni of the University of Glasgow",
-    "McGill University Faculty of Law alumni",
-    "Academics of the University of Aberdeen",
-    "High Commissioners of the United Kingdom to Sri Lanka",
-    "High Commissioners of the United Kingdom to the Maldives",
-    "Ambassadors of the United Kingdom to Nepal",
-    "Companions of the Order of St Michael and St George",
-    "Governors of Bermuda",
-    "Governors of the British Virgin Islands"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "John James Rankin, (born 12 March 1957) is a British diplomat and a former ambassador to Nepal.",
-              "formatting": {
-                "bold": [
-                  "John James Rankin"
-                ]
-              }
-            },
-            {
-              "text": "He is the current Governor of the British Virgin Islands.",
-              "links": [
-                {
-                  "text": "Governor of the British Virgin Islands",
-                  "type": "internal",
-                  "page": "Governor of the Virgin Islands"
-                }
-              ]
-            },
-            {
-              "text": "He was Governor of Bermuda from December 2016 to December 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Bermuda"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "British diplomat; Governor of Bermuda",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "November 2013",
-          "template": "use british english"
-        },
-        {
-          "df": "yes",
-          "year": "1957",
-          "month": "3",
-          "day": "12",
-          "template": "birth date and age"
-        },
-        {
-          "country": "GBR",
-          "size": "100%",
-          "list": [
-            "CMG"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "John Rankin"
-          },
-          "honorific-suffix": {
-            "text": "CMG",
-            "links": [
-              {
-                "text": "CMG",
-                "type": "internal",
-                "page": "Order of St Michael and St George"
-              }
-            ]
-          },
-          "image": {
-            "text": "Johnrankin.jpg"
-          },
-          "office1": {
-            "text": "Governor of the British Virgin Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of the British Virgin Islands"
-              }
-            ]
-          },
-          "monarch1": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 January 2021"
-          },
-          "predecessor1": {
-            "text": "Augustus Jaspert",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Augustus Jaspert"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Governor of Bermuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Bermuda"
-              }
-            ]
-          },
-          "monarch2": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "5 December 2016"
-          },
-          "term_end2": {
-            "text": "12 December 2020"
-          },
-          "predecessor2": {
-            "text": "Ginny Ferson (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ginny Ferson"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Rena Lalgie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rena Lalgie"
-              }
-            ]
-          },
-          "office3": {
-            "text": "United Kingdom High Commissioner to Sri Lanka",
-            "links": [
-              {
-                "text": "United Kingdom High Commissioner to Sri Lanka",
-                "type": "internal",
-                "page": "List of High Commissioners of the United Kingdom to Sri Lanka"
-              }
-            ]
-          },
-          "monarch3": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Peter Hayes",
-            "links": [
-              {
-                "text": "Peter Hayes",
-                "type": "internal",
-                "page": "Peter Hayes (diplomat)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "James Dauris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Dauris"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end3": {
-            "text": "2015",
-            "number": 2015
-          },
-          "office4": {
-            "text": "United Kingdom Consul-General in Boston",
-            "links": [
-              {
-                "text": "United Kingdom Consul-General in Boston",
-                "type": "internal",
-                "page": "List of Consuls-General of the United Kingdom in Boston"
-              }
-            ]
-          },
-          "monarch4": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "George Fergusson",
-            "links": [
-              {
-                "text": "George Fergusson",
-                "type": "internal",
-                "page": "George Fergusson (diplomat)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Phil Budden"
-          },
-          "term_start4": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end4": {
-            "text": "2007",
-            "number": 2007
-          },
-          "birth_name": {
-            "text": "John James Rankin"
-          },
-          "birth_date": {
-            "text": "March 12, 1957"
-          },
-          "birth_place": {
-            "text": "United Kingdom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Kingdom"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "John Rankin",
+  "honorific-suffix": "CMG",
+  "image": "Johnrankin.jpg",
+  "office1": "Governor of the British Virgin Islands",
+  "monarch1": "Elizabeth II",
+  "term_start1": "29 January 2021",
+  "predecessor1": "Augustus Jaspert",
+  "office2": "Governor of Bermuda",
+  "monarch2": "Elizabeth II",
+  "term_start2": "5 December 2016",
+  "term_end2": "12 December 2020",
+  "predecessor2": "Ginny Ferson (acting)",
+  "successor2": "Rena Lalgie",
+  "office3": "United Kingdom High Commissioner to Sri Lanka",
+  "monarch3": "Elizabeth II",
+  "predecessor3": "Peter Hayes",
+  "successor3": "James Dauris",
+  "term_start3": "2011",
+  "term_end3": "2015",
+  "office4": "United Kingdom Consul-General in Boston",
+  "monarch4": "Elizabeth II",
+  "predecessor4": "George Fergusson",
+  "successor4": "Phil Budden",
+  "term_start4": "2003",
+  "term_end4": "2007",
+  "birth_name": "John James Rankin",
+  "birth_date": "March 12, 1957",
+  "birth_place": "United Kingdom"
 }
