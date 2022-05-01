@@ -4,10 +4,12 @@
   "honorific-suffix": "CMG",
   "office1": "Governor of the British Virgin Islands",
   "monarch1": "Elizabeth II",
+  "premier1": "Andrew Fahie",
   "term_start1": "29 January 2021",
   "predecessor1": "Augustus Jaspert",
   "office2": "Governor of Bermuda",
   "monarch2": "Elizabeth II",
+  "premier2": "Michael Dunkley Edward David Burt",
   "term_start2": "5 December 2016",
   "term_end2": "12 December 2020",
   "predecessor2": "Ginny Ferson (acting)",
@@ -26,5 +28,6 @@
   "term_end4": "2007",
   "birth_name": "John James Rankin",
   "birth_date": "March 12, 1957",
-  "birth_place": "United Kingdom"
+  "birth_place": "United Kingdom",
+  "alma_mater": "University of Glasgow McGill University"
 }
