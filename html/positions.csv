@@ -1,7 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q691615,Governor of the Virgin Islands,,,,,1887,,,,Governor of the Virgin Islands
 Q5261034,Deputy Governor of the British Virgin Islands,,,,,,,,,Deputy Governor of the British Virgin Islands
-Q119804,Premier of the Virgin Islands,Q25305,Q25305,,,1967-04-14,,,,Premier of the Virgin Islands
+Q119804,Premier of the Virgin Islands,Q25305,Q25305,Q111805258,,1967-04-14,,,,Premier of the Virgin Islands
+Q111805258,Deputy Premier of the British Virgin Islands,Q25305,Q25305,,,,,,,
 Q109887659,"Minister for Education, Culture, Youth Affairs, Fisheries and Agriculture",Q25305,Q25305,,,,,,,
 Q109887668,Minister of Finance,Q25305,Q25305,,,,,,,
 Q109887663,Minister for Health and Social Development,Q25305,Q25305,,,,,,,
