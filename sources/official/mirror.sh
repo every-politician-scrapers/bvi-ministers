@@ -1,8 +1,10 @@
 #!/bin/bash
 
+cd $(dirname $0)
+
 rm -rf mirror
 mkdir mirror
-cd mirror
+pushd mirror
 
 CURLOPTS='-L -c /tmp/cookies -A eps/1.2'
 
@@ -13,4 +15,5 @@ for url in $(nokogiri -e "puts @doc.css('.departmentblock a/@href').map(&:text)"
   curl $CURLOPTS -o $(basename $url).html $url
 done
 
+popd
 cd ~-
