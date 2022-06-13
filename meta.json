@@ -4,17 +4,6 @@
       "id": "Q25305"
     },
     "cabinet": {
-      "id": "Q109887330",
-      "start": "2019-03-01",
       "parent": "Q16825166"
-    },
-    "source": {
-        "url":   "https://bvi.gov.vg/listing-of-ministries",
-        "title": "Our Ministries | Government of the Virgin Islands",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/bvi-ministers"
+    }
 }
