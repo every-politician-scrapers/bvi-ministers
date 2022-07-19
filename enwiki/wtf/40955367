@@ -1,0 +1,857 @@
+{
+  "title": "John Rankin (diplomat)",
+  "pageID": 40955367,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "People educated at Hutchesons' Grammar School",
+    "Alumni of the University of Glasgow",
+    "McGill University Faculty of Law alumni",
+    "Academics of the University of Aberdeen",
+    "High Commissioners of the United Kingdom to Sri Lanka",
+    "High Commissioners of the United Kingdom to the Maldives",
+    "Ambassadors of the United Kingdom to Nepal",
+    "Companions of the Order of St Michael and St George",
+    "Governors of Bermuda",
+    "Governors of the British Virgin Islands"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John James Rankin, (born 12 March 1957) is a British diplomat and a former ambassador to Nepal.",
+              "formatting": {
+                "bold": [
+                  "John James Rankin"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Governor of the British Virgin Islands.",
+              "links": [
+                {
+                  "text": "Governor of the British Virgin Islands",
+                  "type": "internal",
+                  "page": "Governor of the Virgin Islands"
+                }
+              ]
+            },
+            {
+              "text": "He was Governor of Bermuda from December 2016 to December 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Bermuda"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat; Governor of Bermuda",
+          "template": "short description"
+        },
+        {
+          "date": "July 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2013",
+          "template": "use british english"
+        },
+        {
+          "df": "yes",
+          "year": "1957",
+          "month": "3",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "John Rankin"
+          },
+          "honorific-suffix": {
+            "text": "CMG",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Order of St Michael and St George"
+              }
+            ]
+          },
+          "image": {
+            "text": "John Rankin 2016 (cropped).jpg"
+          },
+          "office1": {
+            "text": "Governor of the British Virgin Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of the British Virgin Islands"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Andrew Fahie Natalio Wheatley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Fahie"
+              },
+              {
+                "type": "internal",
+                "page": "Natalio Wheatley"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 January 2021"
+          },
+          "predecessor1": {
+            "text": "Augustus Jaspert",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Augustus Jaspert"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Bermuda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Bermuda"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "premier2": {
+            "text": "Michael Dunkley Edward David Burt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Dunkley"
+              },
+              {
+                "type": "internal",
+                "page": "Edward David Burt"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "5 December 2016"
+          },
+          "term_end2": {
+            "text": "12 December 2020"
+          },
+          "predecessor2": {
+            "text": "Ginny Ferson (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ginny Ferson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Rena Lalgie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rena Lalgie"
+              }
+            ]
+          },
+          "office3": {
+            "text": "United Kingdom High Commissioner to Sri Lanka",
+            "links": [
+              {
+                "text": "United Kingdom High Commissioner to Sri Lanka",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Sri Lanka"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Peter Hayes",
+            "links": [
+              {
+                "text": "Peter Hayes",
+                "type": "internal",
+                "page": "Peter Hayes (diplomat)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "James Dauris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Dauris"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end3": {
+            "text": "2015",
+            "number": 2015
+          },
+          "office4": {
+            "text": "United Kingdom Consul-General in Boston",
+            "links": [
+              {
+                "text": "United Kingdom Consul-General in Boston",
+                "type": "internal",
+                "page": "List of Consuls-General of the United Kingdom in Boston"
+              }
+            ]
+          },
+          "monarch4": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "George Fergusson",
+            "links": [
+              {
+                "text": "George Fergusson",
+                "type": "internal",
+                "page": "George Fergusson (diplomat)"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Phil Budden"
+          },
+          "term_start4": {
+            "text": "2003",
+            "number": 2003
+          },
+          "term_end4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "birth_name": {
+            "text": "John James Rankin"
+          },
+          "birth_date": {
+            "text": "March 12, 1957"
+          },
+          "birth_place": {
+            "text": "United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Glasgow McGill University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Glasgow"
+              },
+              {
+                "type": "internal",
+                "page": "McGill University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Johnston-Barnes",
+          "first1": "Owain",
+          "title": "Rankin named new Governor",
+          "url": "http://www.royalgazette.com/news/article/20160919/rankin-named-new-governor",
+          "accessdate": "5 December 2016",
+          "newspaper": "The Royal Gazette",
+          "location": "Bermuda",
+          "date": "19 September 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rankin was born on 12 March 1957."
+            },
+            {
+              "text": "He was educated at Hutchesons' Boys' Grammar School, an independent school in Glasgow, Scotland.",
+              "links": [
+                {
+                  "text": "Hutchesons' Boys' Grammar School",
+                  "type": "internal",
+                  "page": "Hutchesons' Grammar School"
+                },
+                {
+                  "text": "independent school",
+                  "type": "internal",
+                  "page": "Independent school (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "He studied Scots law at the University of Glasgow, graduating with a first class honours Bachelor of Laws (LLB) degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scots law"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Glasgow"
+                },
+                {
+                  "text": "first class honours",
+                  "type": "internal",
+                  "page": "first class honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                }
+              ]
+            },
+            {
+              "text": "He later studied international law at McGill University, graduating with a Master of Laws (LLM) degree.",
+              "links": [
+                {
+                  "text": "international law",
+                  "type": "internal",
+                  "page": "international law"
+                },
+                {
+                  "type": "internal",
+                  "page": "McGill University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Laws"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Governor to the British Virgin Islands: John Rankin",
+          "url": "https://www.gov.uk/government/people/john-rankin",
+          "website": "GOV.UK",
+          "access-date": "29 April 2022",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Legal career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rankin qualified and practised as a solicitor in Scotland; he was a member of the Law Society of Scotland.",
+              "links": [
+                {
+                  "text": "solicitor",
+                  "type": "internal",
+                  "page": "solicitor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Law Society of Scotland"
+                }
+              ]
+            },
+            {
+              "text": "He was addionally a lecturer in public law at the University of Aberdeen from 1984 to 1988.",
+              "links": [
+                {
+                  "text": "lecturer",
+                  "type": "internal",
+                  "page": "lecturer"
+                },
+                {
+                  "text": "public law",
+                  "type": "internal",
+                  "page": "public law"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Aberdeen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Diplomatic career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rankin joined the Foreign and Commonwealth Office (FCO) in 1988.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "Between posts at the FCO he served at the embassy in Dublin and was the consul-general at Boston.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dublin"
+                },
+                {
+                  "text": "consul-general",
+                  "type": "internal",
+                  "page": "consul-general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boston"
+                }
+              ]
+            },
+            {
+              "text": "He took up his appointment as High Commissioner to Sri Lanka and non-resident High Commissioner to the Maldives in February 2011.",
+              "links": [
+                {
+                  "text": "High Commissioner",
+                  "type": "internal",
+                  "page": "High Commissioner (Commonwealth)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sri Lanka"
+                },
+                {
+                  "text": "non-resident",
+                  "type": "internal",
+                  "page": "Dual accreditation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maldives"
+                }
+              ]
+            },
+            {
+              "text": "In 2015, he was appointed Ambassador to Nepal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed Companion of the Order of St Michael and St George (CMG) in the 2016 New Year Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2016 New Year Honours",
+                  "type": "internal",
+                  "page": "2016 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Governor",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rankin was sworn in as Governor of Bermuda on 5 December 2016."
+            },
+            {
+              "text": "In February 2018, signed into law the Domestic Partnerships Act 2018, which effectively reversed the right of gay couples to marry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Domestic Partnerships Act 2018"
+                }
+              ]
+            },
+            {
+              "text": "This made Bermuda the first jurisdiction to legalise and then repeal same-sex marriage rights."
+            },
+            {
+              "text": "The law relating to same-sex marriage in Bermuda could change again, as the Supreme Court stated in June 2018 that repealing same-sex marriage rights was discriminatory and thus contrary to section 12 of the Bermudian Constitution.",
+              "links": [
+                {
+                  "text": "same-sex marriage in Bermuda",
+                  "type": "internal",
+                  "page": "same-sex marriage in Bermuda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2020, it was announced that Rankin would be replacing Gus Jaspert as Governor of the British Virgin Islands in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gus Jaspert"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of the British Virgin Islands"
+                }
+              ]
+            },
+            {
+              "text": "As such, he was replaced in December 2020 by Rena Lalgie as Governor of Bermuda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rena Lalgie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rankin was sworn in as Governor of the British Virgin Islands on 29 January 2021, after arriving in the territory and observing the mandatory 14-day quarantine due to COVID-19."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Bermuda welcomes new Governor",
+          "url": "http://www.royalgazette.com/news/article/20161205/bermuda-welcomes-new-governor",
+          "accessdate": "2 January 2017",
+          "newspaper": "The Royal Gazette",
+          "location": "Bermuda",
+          "date": "5 December 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2018/feb/08/bermuda-repeal-same-sex-marriage",
+          "title": "Bermuda becomes first jurisdiction in the world to repeal same-sex marriage",
+          "author": "Guardian Staff",
+          "last2": "agencies",
+          "date": "2018-02-08",
+          "website": "the Guardian",
+          "language": "en",
+          "access-date": "2018-02-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Governor Jaspert Announces BVI's Next Governor",
+          "url": "https://bvi.gov.vg/media-centre/governor-jaspert-announces-bvi-s-next-governor",
+          "website": "bvi.gov.vg",
+          "publisher": "Government of the Virgin Islands",
+          "access-date": "29 April 2022",
+          "date": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "January 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rankin was married to Lesley Marshall from 1987 until they divorced in 2019."
+            },
+            {
+              "text": "He has a son and two daughters."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Rankin, John James, (born 12 March 1957), HM Diplomatic Service; Governor, British Virgin Islands, since 2021",
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U41850",
+          "website": "Who's Who 2022",
+          "publisher": "Oxford University Press",
+          "access-date": "29 April 2022",
+          "language": "en",
+          "date": "1 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "The Right of Self-determination: Its Nature, Content and Beneficiaries in International Law, McGill University, 1984",
+            "links": [
+              {
+                "text": "''The Right of Self-determination: Its Nature, Content and Beneficiaries in International Law''",
+                "type": "external",
+                "site": "https://books.google.com/books/about/The_Right_of_Self_determination.html?id=Y2GFtgAACAAJ"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "The Right of Self-determination: Its Nature, Content and Beneficiaries in International Law"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "George Fergusson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Consul-General in Boston",
+          "years": "2003–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Phil Budden",
+          "template": "s-aft"
+        },
+        {
+          "before": "Peter Hayes",
+          "template": "s-bef"
+        },
+        {
+          "title": "High Commissioner to Sri Lanka and the Maldives",
+          "years": "2011–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "James Dauris",
+          "template": "s-aft"
+        },
+        {
+          "before": "Andrew Sparkes",
+          "template": "s-bef"
+        },
+        {
+          "title": "Ambassador to Nepal",
+          "years": "2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Richard Morris",
+          "template": "s-aft"
+        },
+        {
+          "before": "Ginny Ferson Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Bermuda",
+          "years": "2016–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rena Lalgie",
+          "template": "s-aft"
+        },
+        {
+          "before": "Augustus Jaspert",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of the Virgin Islands",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "John Rankin, gov.uk",
+            "links": [
+              {
+                "text": "John Rankin",
+                "type": "external",
+                "site": "http://www.gov.uk/government/people/john-rankin"
+              }
+            ]
+          },
+          {
+            "text": "RANKIN, John James, Who's Who 2013, A & C Black, 2013; online edn, Oxford University Press, Dec 2012",
+            "links": [
+              {
+                "text": "RANKIN, John James",
+                "type": "external",
+                "site": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U41850"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Who's Who 2013"
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}
