@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Premier of the British Virgin Islands"
+      ],
+      "stated_as": "Deputy Premier of the British Virgin Islands"
+    },
+    "P580": "2019-03-06",
+    "P1365": {
+      "links": [
+        "Kedrick Pickering"
+      ],
+      "stated_as": "Kedrick Pickering"
+    },
+    "P582": "2019-06-06",
+    "P1366": {
+      "links": [
+        "Kye Rymer"
+      ],
+      "stated_as": "Kye Rymer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Premier of the British Virgin Islands"
+      ],
+      "stated_as": "Deputy Premier of the British Virgin Islands"
+    },
+    "P580": "2020-08-07",
+    "P1365": {
+      "links": [
+        "Carvin Malone"
+      ],
+      "stated_as": "Carvin Malone"
+    },
+    "P582": "2022-05-05",
+    "P1366": {
+      "links": [
+        "Kye Rymer"
+      ],
+      "stated_as": "Kye Rymer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of the British Virgin Islands"
+      ],
+      "stated_as": "Premier of the British Virgin Islands"
+    },
+    "P580": "2022-05-05",
+    "P1365": {
+      "links": [
+        "Andrew Fahie"
+      ],
+      "stated_as": "Andrew Fahie"
+    }
+  }
+]

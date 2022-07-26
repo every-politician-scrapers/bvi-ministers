@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Consuls-General of the United Kingdom in Boston"
+      ],
+      "stated_as": "United Kingdom Consul-General in Boston"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+        "George Fergusson (diplomat)"
+      ],
+      "stated_as": "George Fergusson"
+    },
+    "P582": "2007",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Phil Budden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of High Commissioners of the United Kingdom to Sri Lanka"
+      ],
+      "stated_as": "United Kingdom High Commissioner to Sri Lanka"
+    },
+    "P580": "2011",
+    "P1365": {
+      "links": [
+        "Peter Hayes (diplomat)"
+      ],
+      "stated_as": "Peter Hayes"
+    },
+    "P582": "2015",
+    "P1366": {
+      "links": [
+        "James Dauris"
+      ],
+      "stated_as": "James Dauris"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Bermuda"
+      ],
+      "stated_as": "Governor of Bermuda"
+    },
+    "P580": "2016-12-05",
+    "P1365": {
+      "links": [
+        "Ginny Ferson"
+      ],
+      "stated_as": "Ginny Ferson (acting)"
+    },
+    "P582": "2020-12-12",
+    "P1366": {
+      "links": [
+        "Rena Lalgie"
+      ],
+      "stated_as": "Rena Lalgie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of the British Virgin Islands"
+      ],
+      "stated_as": "Governor of the British Virgin Islands"
+    },
+    "P580": "2021-01-29",
+    "P1365": {
+      "links": [
+        "Augustus Jaspert"
+      ],
+      "stated_as": "Augustus Jaspert"
+    }
+  }
+]
